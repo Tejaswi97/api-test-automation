@@ -7,4 +7,9 @@ public class PayloadProduct {
     public String description;
     public String image;
     public String category;
+    public String id;
+    public String userId;
+    public String products;
+    public String user;
+    public String password;
 }

@@ -1,3 +1,4 @@
+//This class contains test scripts of products
 package tests;
 
 import base.BaseTest;
