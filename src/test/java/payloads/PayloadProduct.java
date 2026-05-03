@@ -12,4 +12,5 @@ public class PayloadProduct {
     public String products;
     public String user;
     public String password;
+    public String email;
 }
